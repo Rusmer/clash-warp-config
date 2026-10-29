@@ -25,6 +25,7 @@ payload:
     - DOMAIN-SUFFIX,ton.org
     - DOMAIN-SUFFIX,tx.me
     - DOMAIN-SUFFIX,usercontent.dev
+    - DOMAIN-SUFFIX,tgcloud.ai
     - IP-CIDR,91.105.192.0/23
     - IP-CIDR,91.108.4.0/22
     - IP-CIDR,91.108.8.0/21
