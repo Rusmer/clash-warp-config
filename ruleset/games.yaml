@@ -8,6 +8,7 @@ payload:
   # modrinth.com
   - DOMAIN,modrinth.com
   - DOMAIN,modrinth.gg
+  - PROCESS-NAME,com.supercell.clashroyale
   # Geforce NOW TCP (Для определения местоположения с IP)
   - AND,((IP-CIDR,13.52.171.59/32,no-resolve),(NETWORK,TCP),(DST-PORT,443))
   - AND,((IP-CIDR,24.51.10.40/29,no-resolve),(NETWORK,TCP),(DST-PORT,443))
