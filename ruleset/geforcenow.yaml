@@ -1,5 +1,8 @@
 payload:
-  # Geforce NOW остальное: Стрим аудио/видео
+  # Geforce NOW остальное: Стрим аудио/
+  - DOMAIN-KEYWORD,geforce
+  - DOMAIN-KEYWORD,geforcenow
+  - DOMAIN-KEYWORD,nvidia
   - IP-CIDR,13.52.171.59/32,no-resolve
   - IP-CIDR,24.51.10.40/29,no-resolve
   - IP-CIDR,24.51.10.112/28,no-resolve
